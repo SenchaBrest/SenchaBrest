@@ -32,6 +32,11 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SenchaBrest?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/SenchaBrest/count.svg" />
+</p>
+
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenchaBrest&langs_count=8)](https://github.com/SenchaBrest/github-readme-stats)
