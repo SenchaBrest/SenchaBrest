@@ -64,6 +64,7 @@
 
 ![SenchaBrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenchaBrest&show_icons=true&theme=gruvbox&count_private=true)
 
+
 <p align="left">
       <a href="https://github.com/SenchaBrest?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SenchaBrest?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -78,6 +79,9 @@
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenchaBrest&langs_count=8)](https://github.com/SenchaBrest/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SenchaBrest&v=2)](https://github.com/SenchaBrest/github-readme-stats)
+<p align="left"> 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenchaBrest&langs_count=8)](https://github.com/SenchaBrest/github-readme-stats)
+</p>
+<p align="left"> 
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SenchaBrest&v=2)](https://github.com/SenchaBrest/github-readme-stats)
+</p>
