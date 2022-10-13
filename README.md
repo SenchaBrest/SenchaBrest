@@ -81,3 +81,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenchaBrest&langs_count=8)](https://github.com/SenchaBrest/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SenchaBrest&v=2)](https://github.com/SenchaBrest/github-readme-stats)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
