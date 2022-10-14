@@ -82,6 +82,9 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SenchaBrest&v=2)](https://github.com/SenchaBrest/github-readme-stats)
 
+#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+
 <!--START_SECTION:waka-->
+
 
 <!--END_SECTION:waka-->
