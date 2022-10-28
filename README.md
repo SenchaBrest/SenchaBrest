@@ -1,7 +1,7 @@
 #
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SenchaBrest&langs_count=8&theme=onedark">
-  <img src ="https://github-readme-stats.vercel.app/api?username=SenchaBrest&show_icons=true&theme=onedark&count_private=true" width="61.5%" height="15%">
+  <img src ="https://github-readme-stats.vercel.app/api?username=SenchaBrest&show_icons=true&theme=onedark&count_private=true" width="61.5%" height="30%">
   <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=SenchaBrest&v=2&theme=onedark">
 </p>
 
