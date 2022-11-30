@@ -1,6 +1,6 @@
 #
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SenchaBrest&langs_count=&theme=onedark" width="320" height="180">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SenchaBrest&langs_count=&theme=onedark&count_private=false" width="320" height="180">
   <img src ="https://github-readme-stats.vercel.app/api?username=SenchaBrest&show_icons=true&theme=onedark&count_private=false" width="470" height="200">
   <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=SenchaBrest&v=2&theme=onedark" width="470" height="200">
 </p>
