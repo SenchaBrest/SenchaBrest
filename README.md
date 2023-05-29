@@ -10,6 +10,7 @@ Git Config   4 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+![](https://github-readme-stats.vercel.app/api/wakatime?username=SenchaBrest&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SenchaBrest&theme=radical&Cache-Control=no-cache)](https://github.com/SenchaBrest/SenchaBrest)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SenchaBrest&show_icons=true&locale=en&layout=compact&langs_count=50&theme=radical)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SenchaBrest&show_icons=true&theme=radical)
